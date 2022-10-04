@@ -88,5 +88,5 @@ group by 1 order by 3 desc;
 Essas consultas podem ser acessadas por vários aplicativos de BI como: PowerBI, DataStudio, ou acessados via python ou outra linguagem, desde que se trenha as credenciais de acesso do cluster do redshift.
 
 ### Exemplo de relatório no Google Datastudio com os dado do DW.
-![relatório](C:\Users\EBMquintto\Pictures\relatorio-dw.png)
+![relatório](https://github.com/ManoelCabral1/Prints/blob/main/redshift-1.png)
 
