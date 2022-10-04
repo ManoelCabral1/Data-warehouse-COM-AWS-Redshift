@@ -11,7 +11,7 @@ Tendo em vista essa rapidez e capacidade de processamento pensei numa estrutura 
 Os dados usados para análise são de vendas de um ecomerce de material para ciclismo. Os arquivos foram armazenados num bucket do AWS S3.
 
 ### Modelagem dimensional
-![modelagem domensional dw](C:\Users\EBMquintto\Pictures\modelagem-dw-games.png)
+![modelagem domensional dw](https://github.com/ManoelCabral1/Prints/blob/main/dimensional.png)
 
 ### Script de criação e carga das tabelas
 
