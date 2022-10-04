@@ -1,5 +1,5 @@
 # Data warehouse COM AWS Redshift
-![modelagem domensional dw](C:\Users\EBMquintto\Pictures\modelagem-dw-games.png)
+![modelagem domensional dw](https://github.com/ManoelCabral1/Prints/blob/main/redshift.png)
 
 ## O que é Redshift?
 O Amazon Redshift é um produto de data warehouse que faz parte da maior plataforma de computação em nuvem Amazon Web Services . [1] Ele é construído em cima da tecnologia da empresa de armazenamento de dados de processamento paralelo massivo (MPP) ParAccel (mais tarde adquirida pela Actian ), [2] para lidar com conjuntos de dados em grande escala e migrações de banco de dados.(wikipedia)
