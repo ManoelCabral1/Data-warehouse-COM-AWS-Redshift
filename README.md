@@ -1,4 +1,4 @@
-# Data warehouse COM AWS Redshift
+# Data warehouse com AWS Redshift
 ![modelagem domensional dw](https://github.com/ManoelCabral1/Prints/blob/main/redshift.png)
 
 ## O que é Redshift?
